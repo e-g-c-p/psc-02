@@ -13,5 +13,7 @@ public class SomaDoisNumeros {
 		
 		resultado = primeiroOperando + segundoOperando;
 
+		System.out.print("Resultado: ");
+		System.out.println(resultado);
 	}
 }
